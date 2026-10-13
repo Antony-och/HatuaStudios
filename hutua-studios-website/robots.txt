@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: replace YOUR-DOMAIN
+Sitemap: https://YOUR-DOMAIN/sitemap.xml
